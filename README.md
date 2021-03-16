@@ -1,5 +1,6 @@
 # Final-Project-1
 Deploying diabetes predictor to Postman and Heroku
+
 The aim of this project is to deploy machine learning model with Flask. For this project, I am going to help predict the likelihood of a person 
 being diagnosed with diabetes based on several diagnostic measurements of that person.The dataset that I have used is from this database: 
 https://www.kaggle.com/uciml/pima-indians-diabetes-database .The dataset has 768 records, and all patients are females at least 21 years of
